@@ -1,3 +1,4 @@
 file3 on master
 file3 on b1
 new change
+new feature
